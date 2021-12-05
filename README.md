@@ -7,13 +7,13 @@
 
 <div align="center">
   <a href="https://github.com/mairapaulac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairapaulac&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairapaulac&layout=compact&langs_count=7&theme=merko"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mairapaulac&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairapaulac&layout=compact&langs_count=7&theme=merko"/>
     
 </div>
   <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" height="150" style="border-radius:50px;" src="https://discord.com/channels/786701470782455818/786714594135638056/916910864702001194">
+ <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/786714594135638056/916909837047189585/yoda-much-to-learn.gif">
    
 </div>
   
