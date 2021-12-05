@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hiii!! i'm Maíra Paula.
 
-<!--
-**mairapaulac/mairapaulac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: mairapaulac@hotmail.com
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/mairapaulac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairapaulac&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairapaulac&layout=compact&langs_count=7&theme=merko"/>
+    
+</div>
+  <div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="right" height="150" style="border-radius:50px;" src="https://discord.com/channels/786701470782455818/786714594135638056/916910864702001194">
+   
+</div>
+  
+  ##
+  
+  Contacts 
+  <div>
+      <a href = "mailto:mairapaulac@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://instagram.com/_mairapaulac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/maíra-paula-de-oliveira-cruz-64982120b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
