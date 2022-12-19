@@ -13,7 +13,7 @@
 </div>
   <div style="display: inline_block"><br>
  <img align="center" alt="Maíra-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img height="60" width"80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+ <img align="center" height="40" width"80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/786714594135638056/916909837047189585/yoda-much-to-learn.gif">
    
 </div>
