@@ -1,7 +1,7 @@
 ## Hiii!! I'm Maíra Paula.
 
 
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning HTML5, CSS3 and Java.
 - 📫 How to reach me: mairapaulac@hotmail.com
 - 😄 Pronouns: She/Her
 
