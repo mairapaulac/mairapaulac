@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning HTML5, CSS3 and Java.
 - 📫 How to reach me: mairapaulac@hotmail.com
-- 😄 Pronouns: She/Her
+- 📱 You can follow me on instagram as well: @_mairapaulac
 
 <div align="center">
   <a href="https://github.com/mairapaulac">
