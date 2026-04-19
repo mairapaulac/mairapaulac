@@ -6,27 +6,30 @@
 
 
 ---
-<div style="font-size:12px; background-color:#0d1117; color:#c9d1d9; padding:16px; border-radius:8px; font-family:monospace;">
-<pre><code>
+
+```bash
+
 > whoami
-Computer Engineering student
+Computer Engineering student at UNIVASF
 
 > interests
-Backend development | Embedded systems | Real-world problem solving
+Backend development | Embedded systems | Robotics
 
 > description
-Passionate about the universe of computing and driven by curiosity.
-I enjoy exploring how things work under the hood and turning ideas
-into practical solutions that can impact people's lives.
+Passionate about the universe of computing and driven by curiosity. 
+I enjoy exploring how things work under the hood and turning ideas 
+into practical solutions that can impact the real world
 
-> mindset
-Always learning, always building.
-I believe technology is most powerful when it leaves the screen
-and creates real-world value.
+> whatdrivesme
+curiosity | continuous learning | resilience | building smth meaningful
 
-> current_focus
-- Deepening backend knowledge
-- Exploring embedded systems and hardware-software integration
-- Building projects that connect theory to real applications
-</code></pre>
-</div>
+> currentfocus
+ ● Deepening backend knowledge mostly with java 
+ ● Exploring embedded systems and hardware-software integration
+ ● Building projects that connect theory to real applications
+
+```
+
+
+
+
